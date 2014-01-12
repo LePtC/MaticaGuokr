@@ -1,0 +1,221 @@
+﻿@-moz-document domain("guokr.com") {
+
+/* Guokr.com LePtC Style，版本v0.2，作者LePtC，2014.01.06 */
+/* 以下功能不想要的，注释掉或直接删除跟在说明后面的代码即可，删改的时候注意逗号 */
+
+
+
+/* 问答的标题加大涂深绿 */
+[id="articleTitle"] {
+    font-size: 24px !important;
+    color: rgb(75, 167, 51) !important;
+}
+
+/* 问答的标签描蓝边 */
+.gmain .tag {border: 1px solid rgb(0, 120, 182) !important;}
+
+/* 精华星星换橙黄色 */
+.gmain .post-title-star {
+    background: url("http://img1.guokr.com/image/uGxG_Hq4QaBXxBqr7Ez1fRELF-2pgeXGk__3imaoHmcOAAAADgAAAFBO.png") no-repeat scroll 0px 0px transparent !important;
+}
+
+/* 支持反对计数字号加大（果壳还没见过四位数的支持...）以及圆角特效 */
+*.ask-multi-up,
+[class="answer-digg-up"],
+[class="answer-digg-up highlight"],
+[class="answer-digg-dw"],
+[class="answer-digg-dw highlight"] {
+    font-size: 16px !important;
+    border: 2px solid rgb(75, 167, 51) !important;
+    /* 想要直角的话注释下面两行即可 */
+    -moz-border-radius: 5px !important;
+    border-radius: 5px !important;
+}
+
+/* 支持涂绿 */
+*.ask-multi-up,
+*.ask-side-up,
+[class="answer-digg-up"] {
+    color: rgb(75, 167, 51) !important;
+}
+/* 已投票的话反浅绿色提醒 */
+[class="answer-digg-up highlight"] {
+    color: rgb(255, 255, 255) !important;
+    background: rgb(136, 201, 50) !important;
+}
+/* 反对调整一下高度 */
+[class="answer-digg-dw"] {
+    line-height: 40px !important;
+}
+[class="answer-digg-dw highlight"] {
+    line-height: 40px !important;
+    color: rgb(255, 255, 255) !important;
+    background: rgb(136, 201, 50) !important;
+}
+
+/* 回答楼层条涂绿 */
+.answer-t {
+    background: rgb(150, 225, 142) !important;
+    border: 2px solid rgb(75, 167, 51) !important;
+}
+/* 调整灰色文字颜色 */
+.answer-usr, .answer-date {
+    color: rgb(75, 167, 51) !important;
+    font-size: 14px !important;
+}
+/* 回答者的名字加大 */
+.answer-usr-name {
+    font-size: 18px !important;
+}
+
+/* 感谢等按钮也描个边吧~ */
+[data-operation="thankAnswer"] {
+    color: rgb(75, 167, 51) !important;
+    background: rgb(220, 220, 220) !important;
+    border: 2px solid rgb(75, 167, 51) !important;
+}
+[data-operation="helplessAnswer"] {border: 2px solid rgb(150, 150, 150) !important;}
+[data-report="yes"] {border: 2px solid rgb(255, 0, 0) !important;}
+
+[data-operation="thankAnswer"],
+[data-operation="helplessAnswer"],
+[data-report="yes"] {
+    background: rgb(220, 220, 220) !important;
+    -moz-border-radius: 5px !important;
+    border-radius: 5px !important;
+}
+
+/* 本狸的回答名字高亮加粗 >_< */
+[href="http://www.guokr.com/i/1585771774/"] {
+    color: rgb(243, 117, 38) !important;
+    font-weight: bold !important;
+}
+/* @我的地方高亮 */
+[href="http://www.guokr.com/n/LePtC/"],
+/* 你还可以设置你关注的人名字高亮 */
+[href="http://www.guokr.com/i/2063560525/"],
+[href="http://www.guokr.com/i/0884326152/"],
+[href="http://www.guokr.com/i/0292919128/"],
+[href="http://www.guokr.com/i/1769480175/"],
+[href="http://www.guokr.com/i/0052772945/"],
+[href="http://www.guokr.com/i/1632399724/"],
+[href="http://www.guokr.com/i/0058808914/"],
+[href="http://www.guokr.com/i/1718135011/"],
+[href="http://www.guokr.com/i/1144917664/"],
+[href="http://www.guokr.com/i/1924760579/"],
+[href="http://www.guokr.com/i/2138543652/"],
+[href="http://www.guokr.com/i/0351792525/"],
+[href="http://www.guokr.com/i/0473918687/"],
+[href="http://www.guokr.com/i/0731713163/"],
+[href="http://www.guokr.com/i/0275510731/"],
+[href="http://www.guokr.com/i/1834626891/"]
+{color: rgb(243, 117, 38) !important;}
+
+/* 把灰蒙蒙的正文颜色变成实黑 */
+/* （果壳首页的） 
+.index-page .main .recos .recos-article .stress a, 
+.index-page .main .contents .contents-l .content a,
+.index-page .main .contents .contents-r .content a,
+/* （果壳问答的） 
+* .gellipsis,
+/* （个人主页的） 
+.index-page .info,.tasket-lt-item,
+.blog_list li p, .answer_list li p, .news_list li p
+{color: rgb(0, 0, 0) !important;}*/
+
+
+
+
+
+/* =====以下是各种屏蔽===== */
+
+
+/* 强力防误删 */
+[data-operation="deleteAnswer"],
+[data-operation="deleteComment"],
+[id="deleteBlog"],
+[data-operation="delete"]
+{display: none !important;}
+
+/* 反正我从来不分享 */
+*.bdsharebuttonbox.bdshare-button-style0-16,
+/* 我不用看热门标签 */
+.ask-index-list.ask-hot-tags.gclear,
+/* 我不用看问答帮助 */
+DIV.ask-index-list.ask-index-help.gclear,
+/* 隐藏你可能感兴趣的小组 */
+.group-mine-page .group-recom,
+/* 屏蔽换来换去的推广，跟广告似的 */
+.side-promote
+{display: none !important;}
+
+/* 隐藏浮动按钮 */
+/* （果壳问答的） */
+.tool-question .question ,
+.tool-share .share ,
+.tool-gotop .gotop ,
+/* （果壳小组的） */
+.tool-comment .comment ,
+.tool-reply .reply ,
+.tool-mygroups .mygroups ,
+/* （主题站的） */
+.tool-casual .casual,
+/* （日志的） */
+.gui-screen-top
+{display: none !important;}
+
+
+
+
+
+
+/* =====以下均为方便小屏幕放大的处理===== */
+
+
+/* 这一句话修复了好多东西，不要动... */
+body {min-width: 650px !important;}
+/* 顺手把底栏也卡到小屏幕版吧 */
+.gbottom {width: 720px !important;}
+
+/* 隐藏没用的搜索框 */
+.gh-search {display: none !important;}
+/* 把位置给通知栏 */
+.gh-wrap {width: 720px !important;}
+
+/* 隐藏果壳图标省空间 */
+.sub-nav-wrap h2 a {display: none !important;}
+/* 把空间给右侧按钮 */
+/* 开发中... */
+
+/* 果壳问答首页完整显示预览
+.gellipsis { white-space:normal !important;}*/
+
+/* 先把右侧的东西都卡到下方去 */
+/*  （主页的）  */
+.grow.gclear.index-page,
+/*  （小组、问答的）  */
+.gwrap,
+/*  （具体问答的）  */
+.ask-content-page 
+{max-width: 650px !important;}
+
+.ask-index-page .gside {
+    max-width: 650px !important;
+    float: left !important;
+}
+/*  最佳回答者浮到左边  
+#askBestChange.ask-index-list.ask-index-best {
+    width: 300px !important;
+    float: left !important;
+}*/
+/*  好友动态浮到右边  
+#askFriendNews.ask-index-list.ask-index-new,*/
+/*  个人主页浮到右边去  */
+.gwrap-p .gside {float: right !important;}
+
+/* 改成隐藏水平滚动条 */
+scrollbar[orient="horizontal"] {display: none !important;}
+
+
+}
+
