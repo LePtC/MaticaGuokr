@@ -1,4 +1,4 @@
-Guokr
+Matica@Guokr
 =====
 
-我好像没必要在自己的目录下建一个Guokr的库，我的东西都可以提交到[果壳网开放小组](https://github.com/GuokrUnion)...
+用于存放我在[Guokr.com](http://www.guokr.com/i/1585771774/)用到的Mathematica代码
