@@ -1,11 +1,21 @@
 Mathematica Levels Solver
 =====
 
-Levels is a card sliding and merge game (like 2048) created by Shumpei Hayashi. (Levels is a terrible name for a game, you need to search for the author's name to find the game)
+Levels (by Shumpei Hayashi) is a card sliding and merge game (like 2048). (Levels is a terrible name for a game, you need to search for the author's name to find the game)
 
-Levels 是由 Shumpei Hayashi 开发的一个像 2048 一样的卡片合成游戏。（这个名字起的不好，搜作者的名字才能搜到这个游戏…）
+Levels (by Shumpei Hayashi) 是一个类似于 2048 的合成游戏。（这个名字起的不好，搜作者的名字才能搜到这个游戏…）
 
-<img src="icon.png" alt="icon" style="width:150px"/>
+<img src="icon.png" alt="icon"/>
+
+Same level blue cards can merge and level up. The game add neutual (money) and enemy cards. Money can be eliminated by blue cards, which actually serves as available moving spaces. Red cards can not be manipulated, can only be eliminated by equal or higher level blue cards.
+
+相同的蓝色卡牌可以合成升级，此外增加了中立（金钱）和敌人（红色）卡牌。金钱可被蓝卡消除，实际上起到可移动空间的作用。红卡不可操作，只能被相同或更高级的蓝卡消除。
+
+<img src="8766.png" alt="8766"/>
+
+Like 2048, the game ends when there is no available moves.
+
+和 2048 一样，游戏玩到无路可走结束。
 
 Manually I can only reach level 8. So I wrote a mathematica program to help me play this game. Introductions for each version are listed below:
 
@@ -37,13 +47,13 @@ In the later period of the game playing, `v0.3` would be the most effective vers
 
 3. load the backup, run mathematica, search for feasible synthesis route
 
+- P.S. new cards prediction is only correct for 15 steps, after 15 steps the sequence might change, then you have to do another save&load
+
 1. 用第三方软件存档（例如钛备份）
 
 2. 随便走个 15 步，记录新出现的卡片
 
 3. 读档，开动 mathematica 搜索合成路线
-
-- P.S. new cards prediction is only correct for 15 steps, after 15 steps the sequence might change, then you have to do another save&load
 
 - 注：每次存档读档后 15 步内，新卡出现的序列是一样的，但超过 15 步之后预测就开始不准了，需要再次存档读档
 
@@ -55,17 +65,17 @@ In the later period of the game playing, `v0.3` would be the most effective vers
 
 设置初始局势，红卡记作负数，金钱都是零（目前的程序不考虑金钱的合并）
 
+<img src="8766.png" alt="8766"/>
+
 ```
 Ca = ( {
     {8, 7, 0, -7, 3},
-    {1, -9, 0, -7, -9},
+    {1, -9, 0, -7,  -9},
     {1, -9, 5, 5, 1},
     {3, -9, -9, 1, -8},
     {2, 1, 6, -9, -9}
    } );
 ```
-
-<img src="8766.jpg" alt="8766" style="width:200px"/>
 
 `Aim` : the minimum card level you wish to merge (if you set `Aim=7`, the program will search until level 8 card is born)
 
@@ -93,41 +103,10 @@ Nmove[Ca, 14, 14] // Timing
 
 
 
-# Practice example 实战范例
+# Video example 实测视频
 
-I played to this 8765 board manually:
-
-我先手动玩到了这个 8765 档：
-
-<img src="8765.jpg" alt="8765" style="width:200px"/>
-
-It took mathematica 1 hour on laptop CPU i5-6200U to find a nice route to level 5.
-
-投喂了一个小时的 i5-6200U 后，麦酱找到了一个相当好的 5 级合成路线
-
-<img src="practice8765.jpg" alt="practice8765" style="width:200px"/>
-
-Do another save&load
-
-再做一次存档读档
-
-<img src="8766.jpg" alt="8766" style="width:200px"/>
-
-After 20 minutes on i7-4790K, a route to level 8 is discovered, with which I can proceed to get level 9 manually.
-
-转移到台式机 i7-4790K 上，二十分钟后找到一个 8 级路线（之后我可以手动合成到 9 级）
-
-<img src="practice8766.jpg" alt="practice8766" style="width:200px"/>
-
-Since the computer is free for the night, let's try if it can find level 9 directly, and after 7 hours it did...
-
-晚上闲着没事，直接搜 9 级试试，花 7 个小时后还真搜到了…
-
-<img src="practice8766-2.jpg" alt="practice8766-2" style="width:200px"/>
-
-This save is named 9, you can download it on my GitHub page
-
-这个存档名称为 9，在我的 GitHub 页面提供存档下载
+| [youtube](https://www.youtube.com/) | [bilibili](http://space.bilibili.com/2654670/) |
+|---|---|
 
 
 
@@ -135,18 +114,13 @@ This save is named 9, you can download it on my GitHub page
 
 Mathematica 程序下载
 
-| [v0.1](http://raw.githubusercontent.com/LePtC/MaticaGuokr/master/201607/LevelsSolver.v0.1.nb) | [v0.2](http://raw.githubusercontent.com/LePtC/MaticaGuokr/master/201607/LevelsSolver.v0.2.nb) | [v0.3](http://raw.githubusercontent.com/LePtC/MaticaGuokr/master/201607/LevelsSolver.v0.3.nb) |
+| [v0.1](https://github.com/LePtC/MaticaGuokr/raw/master/201607/LevelsSolver.v0.1.nb) | [v0.2](https://github.com/LePtC/MaticaGuokr/raw/master/201607/LevelsSolver.v0.2.nb) | [v0.3](https://github.com/LePtC/MaticaGuokr/raw/master/201607/LevelsSolver.v0.3.nb) |
 |---|---|---|
 
 TitaniumBackup 存档下载
 
-| [8765](http://raw.githubusercontent.com/LePtC/MaticaGuokr/master/201607/app.flow.levels-8765.tar.gz) | [8766](http://raw.githubusercontent.com/LePtC/MaticaGuokr/master/201607/app.flow.levels-8766.tar.gz) | [9](http://raw.githubusercontent.com/LePtC/MaticaGuokr/master/201607/app.flow.levels-9.tar.gz) |
-|---|---|---|
-
-Video 实测视频
-
-| [youtube](https://www.youtube.com/) | [bilibili](http://space.bilibili.com/2654670/) |
-|---|---|
+| [8765](https://github.com/LePtC/MaticaGuokr/raw/master/201607/app.flow.levels-8765.tar.gz) | [8766](https://github.com/LePtC/MaticaGuokr/raw/master/201607/app.flow.levels-8766.tar.gz) | [88](https://github.com/LePtC/MaticaGuokr/raw/master/201607/app.flow.levels-88.tar.gz) | [95](https://github.com/LePtC/MaticaGuokr/raw/master/201607/app.flow.levels-95.tar.gz) |
+|---|---|---|---|
 
 
 
