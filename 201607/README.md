@@ -17,23 +17,27 @@ Like 2048, the game ends when there is no available moves.
 
 和 2048 一样，游戏玩到无路可走结束。
 
-Manually I can only reach level 8. So I wrote a mathematica program to help me play this game. Introductions for each version are listed below:
+Manually I can only reach level 8. So I wrote a mathematica program to help me play (crack) this game.
 
-萌狸君手动最高只能合成到 8 级，于是决定开起亲爱的 matica 来玩坏这个游戏。程序各版本介绍如下：
+萌狸君手动最高只能合成到 8 级，于是决定开起亲爱的 matica 来玩坏这个游戏。
+
+
+
+# Mathematica programs 程序版本说明
 
 - `v0.1` : future cards unknown, use probability distribution and repeat each experiments for several times, use number-of-available-moves to determine the best move.
 
-- `v0.1` : 未来的卡片序列未知，用概率分布生成，每一步要重复多次实验，最后用可移动数来判定局势优劣。
-
 - `v0.2` : future card sequence is known (by the save&load trick), which saved the repeated experiment computation,  use number-of-available-moves to determine the best move.
-
-- `v0.2` : 未来的卡片序列已知（存档读档大法），节约了重复实验的计算量，最后用可移动数来判定局势优劣。
 
 - `v0.3` : future card sequence is known, search until high level blue card is born.
 
-- `v0.3` : 未来的卡片序列已知，搜索到有高级蓝卡合成为止。
-
 In the later period of the game playing, `v0.3` would be the most effective version. Therefore the introduction will be focus on this version.
+
+- `v0.1` : 未来的卡片序列未知，用概率分布生成，每一步要重复多次实验，最后用可移动数来判定局势优劣。
+
+- `v0.2` : 未来的卡片序列已知（存档读档大法），节约了重复实验的计算量，最后用可移动数来判定局势优劣。
+
+- `v0.3` : 未来的卡片序列已知，搜索到有高级蓝卡合成为止。
 
 游戏玩到后期，`v0.3` 是最有效的，所以以下只介绍这个版本。
 
