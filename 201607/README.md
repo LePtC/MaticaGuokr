@@ -109,7 +109,7 @@ Nmove[Ca, 14, 14] // Timing
 
 # Video example 实测视频
 
-| [youtube](https://www.youtube.com/) | [bilibili](http://space.bilibili.com/2654670/) |
+| [youtube](https://youtu.be/MFZ8vRqh_rs) | [bilibili](http://www.bilibili.com/video/av5880051) |
 |---|---|
 
 
