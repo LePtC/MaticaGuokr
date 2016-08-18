@@ -49,7 +49,7 @@ In the later period of the game playing, `v0.3` would be the most effective vers
 
 2. do any move for about 15 steps, record new appear cards
 
-3. load the backup, run mathematica, search for feasible synthesis route
+3. load the previous backup, run mathematica, search for feasible synthesis route
 
 - P.S. new cards prediction is only correct for 15 steps, after 15 steps the sequence might change, then you have to do another save&load
 
@@ -134,14 +134,18 @@ TitaniumBackup 存档下载
 
 - Compile a C version program so it would be convenient for people without Mathematica, probably runs faster too.
 
+- Come up with a more efficient algorithm.
+
 - Play to level 10...
 
-Weather I will do the above tasks depend on how many people are interested in this project, so let me know if you are interested : )
+Weather I will do the above tasks depends on how many people are interested in this project, so let me know if you are interested : ) Also I would be glad to see you complete them by yourself.
 
 - 减掉程序中的 +100 标记，使结果看起来更干净
 
-- 编译一个 C 程序版本的让没有 Mathematica 的人也能用，可能跑的也更快
+- 编译一个 C 程序版本的让木有 Mathematica 的人也能用（你们 C 语言有一点好，一到执行起来，跑得比谁都快）
+
+- 暴力搜索不可取…
 
 - 玩到第十级…
 
-我是否会做以上的事项取决于有多少人感兴趣，所以如果你感兴趣请告知 ╮(╯_╰)╭
+我是否会做以上的事项取决于有多少人感兴趣，所以如果你感兴趣请在评论区告知～
