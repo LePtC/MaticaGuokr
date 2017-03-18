@@ -1,0 +1,1753 @@
+1
+00:00:02,051 --> 00:00:04,315
+
+technically
+(with regard to technical skill and the technology available)
+yogurt
+(a custard-like food made from curdled milk)
+
+
+2
+00:00:04,486 --> 00:00:06,750
+
+acidophilus
+(a bacterium that is used to make yogurt and to supplement probiotics)
+
+
+3
+00:00:06,922 --> 00:00:10,153
+
+carrageenan
+(a colloidal extract from carrageen seaweed and other red algae)
+thickness
+(resistance to flow)
+
+
+4
+00:00:10,325 --> 00:00:15,160
+
+berries
+(any of numerous small and pulpy edible fruits; used as desserts or in making jams and jellies and preserves)
+
+
+5
+00:00:16,465 --> 00:00:18,831
+
+
+
+6
+00:00:19,001 --> 00:00:21,629
+
+
+
+7
+00:00:21,804 --> 00:00:23,294
+
+
+8
+00:00:23,706 --> 00:00:25,901
+lactose
+(a sugar comprising one glucose molecule linked to a galactose molecule; occurs only in milk)
+intolerant
+(narrow-minded about cherished opinions)
+
+
+
+9
+00:00:26,075 --> 00:00:28,202
+
+
+
+10
+00:00:29,144 --> 00:00:31,840
+
+
+11
+00:00:46,195 --> 00:00:49,562
+
+
+
+12
+00:00:50,132 --> 00:00:51,497
+
+
+
+13
+00:00:52,801 --> 00:00:56,601
+
+
+
+14
+00:00:56,772 --> 00:00:58,672
+
+
+
+15
+00:00:58,841 --> 00:01:01,366
+
+
+
+16
+00:01:01,543 --> 00:01:03,170
+
+
+17
+00:01:03,479 --> 00:01:06,505
+
+
+
+18
+00:01:06,682 --> 00:01:07,740
+
+
+19
+00:01:07,916 --> 00:01:10,180
+
+
+
+20
+00:01:10,352 --> 00:01:12,479
+
+
+21
+00:01:12,654 --> 00:01:16,522
+
+
+
+22
+00:01:18,460 --> 00:01:20,360
+
+
+23
+00:01:21,463 --> 00:01:23,021
+
+
+24
+00:01:24,066 --> 00:01:26,034
+
+
+25
+00:01:26,668 --> 00:01:28,727
+
+
+
+26
+00:01:33,842 --> 00:01:35,673
+saver
+(someone who saves something from danger or violence)
+
+
+27
+00:01:40,315 --> 00:01:42,306
+
+
+28
+00:01:42,484 --> 00:01:45,078
+
+
+
+29
+00:01:47,256 --> 00:01:50,783
+
+
+
+30
+00:01:50,959 --> 00:01:51,983
+clever
+(showing inventiveness and skill)
+
+
+31
+00:01:52,161 --> 00:01:55,528
+
+
+
+32
+00:01:56,865 --> 00:01:59,834
+
+
+
+33
+00:02:00,002 --> 00:02:02,630
+
+
+
+34
+00:02:02,805 --> 00:02:05,740
+
+
+35
+00:02:05,908 --> 00:02:08,706
+
+
+
+36
+00:02:08,877 --> 00:02:10,708
+
+
+37
+00:02:10,879 --> 00:02:13,609
+
+
+
+38
+00:02:13,782 --> 00:02:17,616
+
+
+
+39
+00:02:17,786 --> 00:02:20,619
+savor
+(the taste experience when a savoury condiment is taken into the mouth)
+
+
+40
+00:02:20,789 --> 00:02:24,316
+
+
+41
+00:02:25,060 --> 00:02:27,995
+StringJoin["gonna\n(", WordData["gonna", "Definitions"][[1,2]], ")\n"]
+
+
+42
+00:02:29,665 --> 00:02:31,997
+
+
+
+43
+00:02:32,167 --> 00:02:33,930
+
+
+
+44
+00:02:34,102 --> 00:02:39,233
+
+lame
+(a fabric interwoven with threads of metal)
+
+
+45
+00:02:39,741 --> 00:02:42,232
+
+
+
+46
+00:02:42,411 --> 00:02:45,938
+
+
+
+47
+00:02:46,114 --> 00:02:47,513
+
+
+48
+00:02:47,683 --> 00:02:50,846
+
+
+
+49
+00:02:51,019 --> 00:02:55,080
+waitress
+(a woman waiter)
+
+
+
+50
+00:02:55,958 --> 00:02:59,985
+
+StringJoin["wanna\n(", WordData["wanna", "Definitions"][[1,2]], ")\n"]
+
+51
+00:03:00,162 --> 00:03:03,598
+
+
+
+52
+00:03:04,333 --> 00:03:07,234
+
+hyperventilate
+(breathe excessively hard and fast)
+
+
+53
+00:03:07,402 --> 00:03:09,768
+
+
+54
+00:03:10,272 --> 00:03:12,433
+
+
+55
+00:03:12,608 --> 00:03:16,635
+
+impromptu
+(an extemporaneous speech or remark)
+
+
+56
+00:03:16,812 --> 00:03:19,144
+
+
+57
+00:03:19,781 --> 00:03:21,339
+
+
+58
+00:03:23,318 --> 00:03:25,445
+
+
+
+59
+00:03:25,621 --> 00:03:29,990
+StringJoin["respiration\n(the metabolic processes whereby certain organisms obtain energy from organic molecules; processes that take place in the cells and tissues during which energy is released and carbon dioxide is produced and absorbed by the blood to be transported to the lungs)\npupils\n(the contractile aperture in the center of the iris of the eye; resembles a large black dot)\nundilated\n(", WordData["undilated", "Definitions"][[1,2]], ")\n"]
+flushing
+(turn red, as if in embarrassment or shame)
+
+
+60
+00:03:30,158 --> 00:03:32,183
+
+
+61
+00:03:32,527 --> 00:03:35,655
+clenched
+(closed or squeezed together tightly)
+
+
+
+62
+00:03:35,831 --> 00:03:39,164
+
+amongst
+(preposition)
+
+
+63
+00:03:39,568 --> 00:03:41,365
+
+
+64
+00:03:41,536 --> 00:03:45,131
+
+iguana
+(large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America)
+dewlap
+(a hanging fold of loose skin on an elderly person's neck)
+enlargement
+(the act of increasing (something) in size or volume or quantity or scope)
+
+
+65
+00:03:45,941 --> 00:03:48,535
+
+
+
+66
+00:03:48,710 --> 00:03:52,202
+
+
+
+67
+00:03:52,381 --> 00:03:55,839
+
+warp
+(yarn arranged lengthways on a loom and crossed by the woof)
+
+
+68
+00:03:57,085 --> 00:04:00,077
+
+
+69
+00:04:01,623 --> 00:04:04,592
+
+
+
+70
+00:04:07,296 --> 00:04:09,196
+
+
+71
+00:04:41,930 --> 00:04:44,091
+
+
+
+72
+00:04:44,266 --> 00:04:48,134
+inadequate
+(lacking the requisite qualities or resources to meet a task)
+
+
+
+73
+00:04:48,303 --> 00:04:51,363
+softener
+(a substance added to another to make it less hard)
+
+
+
+74
+00:04:51,540 --> 00:04:54,873
+StringJoin["delicates\n(", {}[[1,2]], ")\n"]
+
+
+75
+00:04:57,679 --> 00:04:58,805
+
+
+76
+00:04:58,981 --> 00:05:02,747
+
+
+
+77
+00:05:07,489 --> 00:05:10,083
+
+
+78
+00:05:10,592 --> 00:05:14,221
+
+
+
+79
+00:05:15,230 --> 00:05:17,061
+
+
+80
+00:05:18,233 --> 00:05:19,495
+
+
+81
+00:05:19,935 --> 00:05:24,668
+
+
+
+82
+00:05:25,841 --> 00:05:29,242
+
+digestive
+(any substance that promotes digestion)
+regularity
+(the quality of being characterized by a fixed principle or rate)
+
+
+83
+00:05:30,479 --> 00:05:33,778
+
+inappropriate
+(not suitable for a particular occasion etc)
+
+
+84
+00:05:34,516 --> 00:05:39,476
+
+brainiac
+(someone who has exceptional intellectual ability and originality)
+
+
+85
+00:05:39,654 --> 00:05:41,849
+
+
+86
+00:05:42,024 --> 00:05:46,085
+
+
+
+87
+00:05:46,895 --> 00:05:51,594
+brainiac
+(someone who has exceptional intellectual ability and originality)
+
+
+
+88
+00:05:53,602 --> 00:05:56,196
+
+
+89
+00:06:02,177 --> 00:06:03,644
+
+
+90
+00:06:04,946 --> 00:06:07,210
+
+
+
+91
+00:06:07,382 --> 00:06:09,816
+bored
+(uninterested because of frequent exposure or indulgence)
+
+
+92
+00:06:15,791 --> 00:06:17,782
+
+
+
+93
+00:06:18,427 --> 00:06:20,861
+
+quantum
+((physics) the smallest discrete quantity of some physical property that a system can possess (according to quantum theory))
+
+
+94
+00:06:21,029 --> 00:06:22,291
+
+
+95
+00:06:22,464 --> 00:06:24,455
+
+
+96
+00:06:25,000 --> 00:06:26,024
+
+
+97
+00:06:26,435 --> 00:06:28,926
+
+
+
+98
+00:06:31,306 --> 00:06:35,299
+
+StringJoin["waitress/actress\n(", WordData["waitress/actress", "Definitions"][[1,2]], ")\n"]
+
+99
+00:06:35,477 --> 00:06:40,005
+insecure
+(lacking self-confidence or assurance)
+lied
+(a German art song of the 19th century for voice and piano)
+
+
+
+100
+00:06:40,182 --> 00:06:41,706
+
+
+101
+00:06:41,883 --> 00:06:44,647
+
+grad
+(a person who has received a degree from a school (high school or college or university))
+
+
+102
+00:06:44,820 --> 00:06:48,312
+
+loser
+(a gambler who loses a bet)
+
+
+103
+00:06:48,490 --> 00:06:52,654
+StringJoin["loser\"\n(", WordData["loser\"", "Definitions"][[1,2]], ")\n"]
+StringJoin["graduate\"\n(", WordData["graduate\"", "Definitions"][[1,2]], ")\n"]
+
+104
+00:06:57,532 --> 00:07:00,057
+
+
+
+105
+00:07:00,235 --> 00:07:02,066
+
+
+106
+00:07:02,237 --> 00:07:04,467
+
+
+107
+00:07:06,374 --> 00:07:08,672
+
+
+
+108
+00:07:08,844 --> 00:07:11,938
+
+
+109
+00:07:13,148 --> 00:07:16,015
+
+
+
+110
+00:07:16,184 --> 00:07:17,344
+
+
+111
+00:07:17,519 --> 00:07:20,750
+StringJoin["ve\n(", WordData["ve", "Definitions"][[1,2]], ")\n"]
+
+
+112
+00:07:20,922 --> 00:07:24,881
+
+covenant
+((Bible) an agreement between God and his people in which God makes certain promises and requires certain behavior from them in return)
+
+
+113
+00:07:25,560 --> 00:07:29,121
+
+StringJoin["ex\n(the 24th letter of the Roman alphabet)\nfacto\n(", WordData["facto", "Definitions"][[1,2]], ")\n"]
+
+114
+00:07:30,432 --> 00:07:31,922
+
+
+115
+00:07:32,100 --> 00:07:35,399
+endeavor
+(earnest and conscientious activity intended to do or accomplish something)
+
+
+
+116
+00:07:35,570 --> 00:07:39,734
+
+facial
+(care for the face that usually involves cleansing and massage and the application of cosmetic creams)
+autonomic
+(relating to or controlled by the autonomic nervous system)
+reflexes
+(an automatic instinctive unlearned reaction to a stimulus)
+
+
+117
+00:07:40,142 --> 00:07:41,473
+deceive
+(cause someone to believe an untruth)
+
+
+118
+00:07:41,643 --> 00:07:46,342
+tics
+(a local and habitual twitching especially in the face)
+
+
+
+119
+00:07:51,620 --> 00:07:52,644
+
+
+120
+00:07:52,821 --> 00:07:56,621
+homonymic
+(of or related to or being homonyms)
+
+tick
+(any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals)
+bloodsucking
+(drawing blood from the body of another)
+arachnid
+(air-breathing arthropods characterized by simple eyes and four pairs of legs)
+
+
+121
+00:07:56,791 --> 00:07:59,259
+tic
+(a local and habitual twitching especially in the face)
+involuntary
+(not subject to the control of the will)
+
+muscular
+(having a robust muscular body-build characterized by predominance of structures (bone and muscle and connective tissue) developed from the embryonic mesodermal layer)
+contraction
+(the act of decreasing (something) in size or volume or quantity or scope)
+
+
+122
+00:07:59,427 --> 00:08:00,826
+
+
+123
+00:08:03,899 --> 00:08:05,059
+
+
+124
+00:08:07,903 --> 00:08:12,897
+lied
+(a German art song of the 19th century for voice and piano)
+
+embarrassment
+(extreme excess)
+
+
+125
+00:08:13,074 --> 00:08:16,066
+
+
+
+126
+00:08:16,244 --> 00:08:18,235
+
+
+127
+00:08:19,614 --> 00:08:21,946
+
+
+
+128
+00:08:22,117 --> 00:08:24,677
+
+
+
+129
+00:08:24,853 --> 00:08:28,289
+
+
+
+130
+00:08:28,823 --> 00:08:31,257
+
+StringJoin["ve\n(", WordData["ve", "Definitions"][[1,2]], ")\n"]
+
+131
+00:08:31,426 --> 00:08:33,485
+
+
+132
+00:08:35,997 --> 00:08:39,865
+e
+(the 5th letter of the Roman alphabet)
+
+
+
+133
+00:08:40,035 --> 00:08:43,027
+startup
+(the act of starting a new operation or practice)
+
+
+
+134
+00:08:43,205 --> 00:08:45,230
+
+
+135
+00:08:49,177 --> 00:08:50,940
+
+
+
+136
+00:08:51,112 --> 00:08:52,170
+
+
+
+137
+00:08:52,347 --> 00:08:53,371
+
+
+
+138
+00:08:55,817 --> 00:08:56,841
+
+
+
+139
+00:08:57,018 --> 00:08:58,610
+
+
+
+140
+00:08:59,688 --> 00:09:03,351
+
+
+
+141
+00:09:03,525 --> 00:09:06,187
+
+
+
+142
+00:09:06,361 --> 00:09:09,057
+
+
+
+143
+00:09:09,231 --> 00:09:12,223
+
+
+
+144
+00:09:12,400 --> 00:09:13,424
+
+
+
+145
+00:09:13,602 --> 00:09:19,199
+
+
+
+146
+00:09:20,976 --> 00:09:24,036
+
+
+
+147
+00:09:24,613 --> 00:09:27,810
+
+
+
+148
+00:09:27,983 --> 00:09:30,918
+
+
+
+149
+00:09:33,288 --> 00:09:35,188
+
+
+
+150
+00:09:35,357 --> 00:09:38,554
+
+
+
+151
+00:09:38,727 --> 00:09:41,423
+
+
+
+152
+00:09:41,596 --> 00:09:44,861
+
+
+
+153
+00:09:47,402 --> 00:09:50,735
+
+
+
+154
+00:09:50,905 --> 00:09:54,773
+
+
+
+155
+00:09:54,943 --> 00:09:58,811
+
+
+
+156
+00:10:06,621 --> 00:10:08,851
+
+
+157
+00:10:09,224 --> 00:10:12,193
+
+
+
+158
+00:10:13,795 --> 00:10:15,956
+
+
+
+159
+00:10:16,131 --> 00:10:18,429
+
+
+160
+00:10:21,236 --> 00:10:23,101
+
+
+161
+00:10:24,806 --> 00:10:27,138
+
+
+
+162
+00:10:27,309 --> 00:10:29,539
+teriyaki
+(beef or chicken or seafood marinated in spicy soy sauce and grilled or broiled)
+glaze
+(a coating for ceramics, metal, etc.)
+
+sticky
+(having the sticky properties of an adhesive)
+
+
+163
+00:10:29,711 --> 00:10:32,544
+
+oath
+(a commitment to tell the truth (especially in a court of law); to lie under oath is to become subject to prosecution for perjury)
+
+
+164
+00:10:35,817 --> 00:10:38,217
+
+
+165
+00:10:38,386 --> 00:10:40,377
+
+
+166
+00:10:42,557 --> 00:10:44,024
+
+
+167
+00:10:44,192 --> 00:10:48,720
+
+StringJoin["de\n(preposition)\nnovo\n(", WordData["novo", "Definitions"][[1,2]], ")\nconformational\n(", WordData["conformational", "Definitions"][[1,2]], ")\n"]
+
+168
+00:10:49,664 --> 00:10:51,097
+triptych
+(art consisting of a painting or carving (especially an altarpiece) on three panels (usually hinged together))
+
+
+169
+00:10:52,067 --> 00:10:53,967
+
+
+170
+00:10:54,269 --> 00:10:57,295
+
+
+
+171
+00:10:57,472 --> 00:10:58,996
+constitutionally
+(according to the constitution)
+incapable
+(not meeting requirements)
+
+
+172
+00:10:59,174 --> 00:11:02,803
+clearance
+(permission to proceed)
+
+fellowship
+(an association of people who share common beliefs or activities)
+
+
+173
+00:11:02,977 --> 00:11:06,469
+StringJoin["supercollider\n(", WordData["supercollider", "Definitions"][[1,2]], ")\n"]
+fake
+((football) a deceptive move made by a football player)
+
+
+174
+00:11:06,648 --> 00:11:09,947
+miles
+(a footrace extending one mile)
+
+
+
+175
+00:11:14,756 --> 00:11:17,691
+
+
+176
+00:11:18,226 --> 00:11:21,093
+
+
+177
+00:11:21,262 --> 00:11:23,389
+
+
+
+178
+00:11:23,565 --> 00:11:27,524
+
+
+
+179
+00:11:27,702 --> 00:11:31,468
+
+breastfeeding
+(give suck to)
+
+
+180
+00:11:32,907 --> 00:11:34,374
+drizzly
+(wet with light rain)
+
+
+
+181
+00:11:35,844 --> 00:11:37,835
+
+
+
+182
+00:11:38,012 --> 00:11:40,708
+StringJoin["gonna\n(", WordData["gonna", "Definitions"][[1,2]], ")\n"]
+
+
+183
+00:11:41,916 --> 00:11:44,282
+
+
+184
+00:11:46,988 --> 00:11:49,286
+
+
+
+185
+00:11:49,457 --> 00:11:51,925
+
+
+186
+00:11:53,194 --> 00:11:56,129
+
+
+
+187
+00:11:56,297 --> 00:11:59,164
+
+StringJoin["s\n(the 19th letter of the Roman alphabet)\ntrilemma\n(", WordData["trilemma", "Definitions"][[1,2]], ")\n"]
+
+188
+00:11:59,334 --> 00:12:03,293
+predicated
+(involve as a necessary condition of consequence; as in logic)
+
+sub
+(a submersible warship usually armed with torpedoes)
+regression
+(returning to a former state)
+
+
+189
+00:12:03,471 --> 00:12:07,100
+axiomatic
+(evident without proof or argument)
+
+circular
+(an advertisement (usually printed on a page or in a leaflet) intended for wide distribution)
+
+
+190
+00:12:07,275 --> 00:12:10,438
+e
+(the 5th letter of the Roman alphabet)
+
+
+
+191
+00:12:12,514 --> 00:12:13,708
+
+
+192
+00:12:13,882 --> 00:12:16,976
+
+StringJoin["ve\n(", WordData["ve", "Definitions"][[1,2]], ")\n"]
+
+193
+00:12:17,986 --> 00:12:20,648
+StringJoin["est\n(", WordData["est", "Definitions"][[1,2]], ")\nce\n(", WordData["ce", "Definitions"][[1,2]], ")\nque\n(", WordData["que", "Definitions"][[1,2]], ")\nc\n(the 3rd letter of the Roman alphabet)\n"]
+
+194
+00:12:21,689 --> 00:12:24,681
+
+plasticized
+(make plastic, as by the addition of a plasticizer)
+cadavers
+(the dead body of a human being)
+
+
+195
+00:12:24,859 --> 00:12:27,987
+skinless
+(having no skin)
+chicks
+(young bird especially of domestic fowl)
+
+
+196
+00:12:28,997 --> 00:12:32,023
+
+
+197
+00:12:32,734 --> 00:12:37,103
+overreaction
+(an excessive reaction; a reaction with inappropriate emotional behavior)
+
+harmless
+(not causing or capable of causing harm)
+necrophilia
+(an irresistible sexual attraction to dead bodies)
+
+
+198
+00:12:38,573 --> 00:12:41,440
+
+
+
+199
+00:12:41,876 --> 00:12:43,571
+
+
+200
+00:12:43,745 --> 00:12:47,112
+
+brightness
+(the location of a visual perception along a continuum from black to white)
+
+
+201
+00:12:47,282 --> 00:12:48,909
+
+
+
+202
+00:12:49,083 --> 00:12:50,880
+
+
+203
+00:12:51,052 --> 00:12:52,952
+
+generic
+(any product that can be sold without a brand name)
+ketchup
+(thick spicy sauce made from tomatoes)
+
+
+204
+00:12:53,121 --> 00:12:56,579
+rinse
+(washing lightly without soap)
+
+
+
+205
+00:12:58,026 --> 00:13:01,689
+thermostat
+(a regulator for automatically regulating temperature by starting or stopping the supply of heat)
+cilantro
+(parsley-like herb used as seasoning or garnish)
+
+
+
+206
+00:13:03,298 --> 00:13:04,356
+
+
+207
+00:13:05,433 --> 00:13:07,993
+
+
+208
+00:13:09,938 --> 00:13:13,203
+
+insane
+(afflicted with or characteristic of mental derangement)
+
+
+209
+00:13:13,374 --> 00:13:15,274
+
+
+210
+00:13:17,412 --> 00:13:18,902
+
+
+211
+00:13:19,080 --> 00:13:22,072
+StringJoin["pre\n(", WordData["pre", "Definitions"][[1,2]], ")\n"]
+evacuation
+(the act of evacuating; leaving a place in an orderly fashion; especially for protection)
+
+
+212
+00:13:23,384 --> 00:13:26,319
+
+
+
+213
+00:13:26,488 --> 00:13:28,479
+
+
+214
+00:13:29,657 --> 00:13:30,988
+StringJoin["gonna\n(", WordData["gonna", "Definitions"][[1,2]], ")\n"]
+
+215
+00:13:31,159 --> 00:13:34,322
+
+
+
+216
+00:13:34,496 --> 00:13:35,588
+
+
+217
+00:13:38,867 --> 00:13:42,428
+
+teeny
+((used informally) very small)
+
+
+218
+00:13:42,604 --> 00:13:46,904
+
+StringJoin["yajna\n(", WordData["yajna", "Definitions"][[1,2]], ")\n"]
+
+219
+00:13:47,075 --> 00:13:51,910
+
+householder
+(someone who owns a home)
+
+
+220
+00:13:55,116 --> 00:13:57,744
+
+
+221
+00:14:02,924 --> 00:14:05,415
+
+
+222
+00:14:06,728 --> 00:14:08,161
+
+
+223
+00:14:10,932 --> 00:14:12,957
+
+
+224
+00:14:19,173 --> 00:14:21,107
+
+
+225
+00:14:26,481 --> 00:14:28,972
+
+
+
+226
+00:14:30,652 --> 00:14:35,021
+
+
+
+227
+00:14:35,189 --> 00:14:37,623
+
+
+
+228
+00:14:37,792 --> 00:14:41,819
+residual
+((often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing)
+radium
+(an intensely radioactive metallic element that occurs in minute amounts in uranium ores)
+
+luminous
+(softly bright or radiant)
+dials
+(the face of a timepiece; graduated to show the hours)
+
+
+229
+00:14:41,996 --> 00:14:44,590
+
+
+230
+00:14:45,300 --> 00:14:48,292
+
+
+
+231
+00:14:48,736 --> 00:14:51,534
+
+
+
+232
+00:14:52,006 --> 00:14:55,737
+StringJoin["lf\n(", WordData["lf", "Definitions"][[1,2]], ")\n"]
+
+
+233
+00:14:56,644 --> 00:15:00,478
+subverting
+(destroy completely)
+
+conversational
+(characteristic of informal spoken language or conversation)
+
+
+234
+00:15:00,648 --> 00:15:04,709
+
+switcheroo
+(a sudden unexpected switch)
+
+
+235
+00:15:05,620 --> 00:15:07,281
+
+
+236
+00:15:10,925 --> 00:15:14,520
+
+
+
+237
+00:15:14,696 --> 00:15:18,097
+
+s
+(the 19th letter of the Roman alphabet)
+
+
+238
+00:15:18,266 --> 00:15:20,325
+
+
+239
+00:15:20,501 --> 00:15:22,526
+goddess
+(a female deity)
+
+
+240
+00:15:22,704 --> 00:15:27,334
+
+leprous
+(relating to or resembling or having leprosy)
+prostitute
+(a woman who engages in sexual intercourse for money)
+
+
+241
+00:15:28,776 --> 00:15:30,607
+offend
+(cause to feel resentment or indignation)
+
+
+242
+00:15:32,680 --> 00:15:35,843
+
+cinema
+(a theater where films are shown)
+
+
+243
+00:15:40,688 --> 00:15:42,451
+
+
+244
+00:15:44,325 --> 00:15:45,519
+
+
+245
+00:15:45,693 --> 00:15:47,888
+
+gram
+(a metric unit of weight equal to one thousandth of a kilogram)
+
+
+246
+00:15:51,566 --> 00:15:53,864
+
+
+247
+00:15:54,669 --> 00:15:59,368
+
+
+
+248
+00:16:01,442 --> 00:16:04,775
+mattress
+(a large thick pad filled with resilient material and often incorporating coiled springs, used as a bed or part of a bed)
+
+
+249
+00:16:05,179 --> 00:16:08,046
+lumbar
+(of or relating to or near the part of the back between the ribs and the hipbones)
+whatsoever
+(one or some or every or all without specification)
+
+
+250
+00:16:08,716 --> 00:16:12,379
+
+
+251
+00:16:13,054 --> 00:16:15,716
+
+
+
+252
+00:16:16,691 --> 00:16:19,125
+StringJoin["wanna\n(", WordData["wanna", "Definitions"][[1,2]], ")\n"]
+
+
+253
+00:16:19,293 --> 00:16:22,729
+
+bouncy
+(marked by lively action)
+castle
+(interchanging the positions of the king and a rook)
+
+
+254
+00:16:25,133 --> 00:16:27,897
+
+
+
+255
+00:16:28,069 --> 00:16:29,696
+
+
+256
+00:16:29,904 --> 00:16:35,308
+
+roughhousing
+(engage in rough or disorderly play)
+
+
+257
+00:16:35,943 --> 00:16:38,309
+
+
+258
+00:16:38,479 --> 00:16:40,538
+
+
+259
+00:16:40,715 --> 00:16:45,152
+StringJoin["l\n(the 12th letter of the Roman alphabet)\nm\n(the 13th letter of the Roman alphabet)\ngonna\n(", WordData["gonna", "Definitions"][[1,2]], ")\n"]
+sleepovers
+(an occasion of spending a night away from home or having a guest spend the night in your home (especially as a party for children))
+
+
+260
+00:16:45,319 --> 00:16:49,312
+s
+(the 19th letter of the Roman alphabet)
+
+
+261
+00:16:49,490 --> 00:16:51,685
+
+
+262
+00:16:56,397 --> 00:16:58,865
+
+
+
+263
+00:17:03,604 --> 00:17:07,005
+
+unnerving
+(inspiring fear)
+
+
+264
+00:17:08,042 --> 00:17:09,873
+
+
+265
+00:17:10,044 --> 00:17:13,377
+
+
+
+266
+00:17:13,548 --> 00:17:16,608
+
+
+
+267
+00:17:16,784 --> 00:17:20,948
+
+
+
+268
+00:17:21,389 --> 00:17:23,857
+
+
+269
+00:17:24,292 --> 00:17:27,125
+
+
+
+270
+00:17:27,295 --> 00:17:30,162
+
+
+
+271
+00:17:30,331 --> 00:17:36,133
+
+
+
+272
+00:17:40,374 --> 00:17:43,070
+mutant
+(an animal that has undergone mutation)
+
+
+
+273
+00:17:43,244 --> 00:17:44,268
+s
+(the 19th letter of the Roman alphabet)
+
+
+274
+00:17:44,445 --> 00:17:47,937
+
+d
+(the 4th letter of the Roman alphabet)
+
+
+275
+00:17:48,116 --> 00:17:51,574
+
+
+
+276
+00:17:51,753 --> 00:17:55,086
+
+
+
+277
+00:17:55,523 --> 00:18:00,620
+
+
+
+278
+00:18:00,795 --> 00:18:01,819
+
+
+279
+00:18:01,996 --> 00:18:02,985
+
+
+
+280
+00:18:03,765 --> 00:18:06,165
+
+
+281
+00:18:06,534 --> 00:18:10,163
+
+bud
+(a partially opened flower)
+bud
+(a partially opened flower)
+
+
+282
+00:18:16,244 --> 00:18:18,735
+
+
+
+283
+00:18:18,913 --> 00:18:21,575
+
+
+
+284
+00:18:21,749 --> 00:18:24,741
+
+s
+(the 19th letter of the Roman alphabet)
+
+
+285
+00:18:26,220 --> 00:18:29,348
+
+
+
+286
+00:18:33,494 --> 00:18:35,985
+
+
+287
+00:18:36,531 --> 00:18:39,762
+
+
+
+288
+00:18:39,934 --> 00:18:43,461
+
+
+
+289
+00:18:44,238 --> 00:18:48,675
+
+
+
+290
+00:18:49,577 --> 00:18:51,306
+
+
+291
+00:18:52,380 --> 00:18:55,679
+
+
+292
+00:18:58,653 --> 00:19:01,554
+
+
+293
+00:19:03,324 --> 00:19:06,122
+
+
+
+294
+00:19:08,729 --> 00:19:11,391
+
+
+295
+00:19:11,566 --> 00:19:14,194
+
+
+
+296
+00:19:18,039 --> 00:19:21,600
+
+
+
+297
+00:19:21,776 --> 00:19:25,337
+
+
+
+298
+00:19:26,647 --> 00:19:28,512
+
+
+299
+00:19:29,016 --> 00:19:31,450
+lied
+(a German art song of the 19th century for voice and piano)
+
+
+
+300
+00:19:31,619 --> 00:19:34,986
+
+
+
+301
+00:19:39,093 --> 00:19:41,687
+
+
+302
+00:19:42,563 --> 00:19:45,361
+
+
+303
+00:19:49,270 --> 00:19:52,433
+
+
+
+304
+00:19:52,607 --> 00:19:54,632
+
+
+305
+00:19:55,243 --> 00:19:58,644
+derivative
+(the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx)
+
+
+306
+00:19:58,813 --> 00:20:01,281
+
+
+307
+00:20:01,816 --> 00:20:03,875
+
+
+308
+00:20:09,891 --> 00:20:11,051
+
+
+
+309
+00:20:11,225 --> 00:20:14,388
+
+
+
+310
+00:20:14,562 --> 00:20:17,929
+
+StringJoin["wanna\n(", WordData["wanna", "Definitions"][[1,2]], ")\ns\n(the 19th letter of the Roman alphabet)\n"]
+
+311
+00:20:18,099 --> 00:20:19,964
+
+
+312
+00:20:20,134 --> 00:20:23,626
+
+StringJoin["ve\n(", WordData["ve", "Definitions"][[1,2]], ")\n"]
+
+313
+00:20:24,138 --> 00:20:26,663
+
+
+
+314
+00:20:26,841 --> 00:20:30,572
+
+
+
+315
+00:20:30,745 --> 00:20:36,377
+
+
+
+316
+00:20:39,253 --> 00:20:43,485
+
+StringJoin["s\n(the 19th letter of the Roman alphabet)\ngonna\n(", WordData["gonna", "Definitions"][[1,2]], ")\nparalegal\n(a person with specialized training who assists lawyers)\n"]
+
+317
+00:20:44,992 --> 00:20:47,756
+
+
+
+318
+00:20:47,929 --> 00:20:50,898
+
+fancy
+(a kind of imagination that was held by Coleridge to be more casual and superficial than true imagination)
+
+
+319
+00:20:51,265 --> 00:20:54,757
+fancy
+(a kind of imagination that was held by Coleridge to be more casual and superficial than true imagination)
+
+
+
+320
+00:20:55,636 --> 00:20:58,434
+
+
+
+321
+00:20:58,606 --> 00:21:02,508
+
+
+
+322
+00:21:02,677 --> 00:21:04,907
+
+
+323
+00:21:09,450 --> 00:21:12,283
+
+
+
+324
+00:21:14,989 --> 00:21:16,820
+
+
+325
+00:21:45,353 --> 00:21:47,344
