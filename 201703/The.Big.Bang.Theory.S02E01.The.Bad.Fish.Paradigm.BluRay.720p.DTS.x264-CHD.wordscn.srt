@@ -196,7 +196,6 @@ savor > vt. 尽情享受；使有风味；加调味品于；品尝，欣赏
 
 41
 00:02:25,060 --> 00:02:27,995
-gonna > abbr. （美）将要（等于going to）
 
 
 
@@ -673,7 +672,6 @@ ve > 委内瑞拉
 
 132
 00:08:35,997 --> 00:08:39,865
-e > n. 英语字母中的第五个字母
 
 
 
@@ -930,7 +928,6 @@ drizzly > adj. 下毛毛雨的，毛毛雨似的
 
 182
 00:11:38,012 --> 00:11:40,708
-gonna > abbr. （美）将要（等于going to）
 
 
 
@@ -955,7 +952,6 @@ gonna > abbr. （美）将要（等于going to）
 187
 00:11:56,297 --> 00:11:59,164
 
-s > n. 字母s，英语字母中第十九个字母
 trilemma > n. 三难选择的窘境；三难困境；三难推理
 
 
@@ -976,7 +972,6 @@ circular > adj. 循环的；圆形的；间接的
 
 190
 00:12:07,275 --> 00:12:10,438
-e > n. 英语字母中的第五个字母
 
 
 
@@ -995,7 +990,6 @@ ve > 委内瑞拉
 est > abbr. （美国）东部标准时间（Eastern Standard Time）；电休克疗法（Electroshock Therapy）
 ce > abbr. 化学工程师（Chemical Engineer）；总工程师（Chief Engineer）；土木工程师（Civil Engineer）；英国国教（Church of England）；欧洲理事会（Council of Europe）
 que > n. 队列
-c > symb. 碳（carbon）
 
 
 194
@@ -1107,7 +1101,6 @@ evacuation > n. 疏散；撤离；排泄
 
 214
 00:13:29,657 --> 00:13:30,988
-gonna > abbr. （美）将要（等于going to）
 
 
 215
@@ -1228,7 +1221,6 @@ switcheroo > n. 突如其来的变化
 237
 00:15:14,696 --> 00:15:18,097
 
-s > n. 字母s，英语字母中第十九个字母
 
 
 238
@@ -1339,9 +1331,6 @@ roughhousing > n. 骚乱；大吵大闹；大打出手
 
 259
 00:16:40,715 --> 00:16:45,152
-l > n. 字母l（英语字母中的第十二个字母）
-m > abbr. 米；模；毫；兆
-gonna > abbr. （美）将要（等于going to）
 
 sleepovers > 
             <span class="def">Sleepovers is a book by Jacqueline Wilson published in 2001. The story is about Daisy, who hangs out with her friends Amy, Bella, Chloe and Emily: "The Alphabet Club", which was formed by Daisy herself.</span>
@@ -1350,7 +1339,6 @@ sleepovers >
 
 260
 00:16:45,319 --> 00:16:49,312
-s > n. 字母s，英语字母中第十九个字母
 
 
 261
@@ -1414,13 +1402,11 @@ mutant > n. 突变体；突变异种
 
 273
 00:17:43,244 --> 00:17:44,268
-s > n. 字母s，英语字母中第十九个字母
 
 
 274
 00:17:44,445 --> 00:17:47,937
 
-d > n. 字母D
 
 
 275
@@ -1471,7 +1457,6 @@ bud > n. 芽，萌芽；蓓蕾
 284
 00:18:21,749 --> 00:18:24,741
 
-s > n. 字母s，英语字母中第十九个字母
 
 
 285
@@ -1593,7 +1578,6 @@ derivative > n. [化学] 衍生物，派生物；导数
 00:20:14,562 --> 00:20:17,929
 
 wanna > vt. 想要（等于want to）
-s > n. 字母s，英语字母中第十九个字母
 
 
 311
@@ -1624,8 +1608,6 @@ ve > 委内瑞拉
 316
 00:20:39,253 --> 00:20:43,485
 
-s > n. 字母s，英语字母中第十九个字母
-gonna > abbr. （美）将要（等于going to）
 paralegal > n. 律师帮办；律师的专职助手
 
 
