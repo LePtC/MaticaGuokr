@@ -3,6 +3,8 @@ Matica@Guokr
 
 用于存放我在[Guokr.com](http://www.guokr.com/i/1585771774/)用到的Mathematica代码
 
+- 201801: Mathematica VS 别踩白块
+
 - 201703: 英文字幕过滤低频单词
 
 - 201609: 果壳问答统计支持.v2
